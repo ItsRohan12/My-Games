@@ -1,2 +1,3 @@
 # My-Games
-Its about Find the Number game
+While entering guess number use enter or space after giving 3 numbers and click enter to proceed 
+

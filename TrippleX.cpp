@@ -69,7 +69,7 @@ int main()
         cin.clear(); 
         // This will ignore the input rather than integer 
         cin.ignore();
-        // Also it will save the ass from getting in endless loop lol
+        // Also it will save from getting in endless loop lol
 
         if (bLevelComplete)
         {

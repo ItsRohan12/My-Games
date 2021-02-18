@@ -5,7 +5,7 @@ int main()
     char str[100];
    
    cout<<"By $$ Rohan Salunkhe $$\n\n";
-    cout<<"Enter Your Name:-"<<endl<<endl;
+    cout<<"Enter Your Name & Any Number :-"<<endl<<endl;
     cout<<"•••••••••••••••••••••••••••••••••••••••••••••"<<endl<<endl;
     cin.getline(str,100);
     cout<<str;
